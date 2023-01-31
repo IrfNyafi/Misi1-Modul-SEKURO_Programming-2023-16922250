@@ -3,11 +3,9 @@ Berikut adalah link sumber materi 1 ->
 [Link Video 1](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf&index=1&t=657s&ab_channel=WebProgrammingUNPAS)
 
 ## Table of Content
-- [Pengenalan Git \& GitHub (Video 1)](#pengenalan-git--github-video-1)
-  - [Table of Content](#table-of-content)
-  - [Apa Itu Git?](#apa-itu-git)
-  - [Istilah-istilah yang Sering Digunakan Dalam Git](#istilah-istilah-yang-sering-digunakan-dalam-git)
-  - [Apa Itu GitHub?](#apa-itu-github)
+- [Apa Itu Git?](#apa-itu-git)
+- [Istilah-istilah yang Sering Digunakan Dalam Git](#istilah-istilah-yang-sering-digunakan-dalam-git)
+- [Apa Itu GitHub?](#apa-itu-github)
 
 <br>
 
