@@ -1,6 +1,9 @@
 # Bekerja dengan Git
 
 ## Table of Contents
+  - [Instalasi Git](#instalasi-git)
+  - [Tiga Area pada Repo Git](#tiga-area-pada-repo-git)
+  - [Workflow Git](#workflow-git)
 
 ## Instalasi Git
 1. Silahkan kunjungi [Link](https://git-scm.com/) tersebut untuk menuju ke page downloadnya
@@ -64,10 +67,19 @@ git config --blobal user.email "email Anda"
 (contoh screenshot)
 ![Config Akun Git](./img/daftar-akun.png)
 
-Langkah selanjutnya adalah melakukan commit. Berikut adalah command yang digunakan untuk commit
+Langkah selanjutnya adalah melakukan commit (Perhatikan bahwa file-file yang di-commit harus berada pada staging area terlebih dahulu). Berikut adalah command yang digunakan untuk commit 
 
 ```
 git commit -m "Pesan Commit"
 ```
 
 flag -m menandakan pesan
+
+(contoh screenshot)
+![Contoh Commit](./img/contoh-commit.png)
+
+Andaikan dalam perjalanan development repository-nya terdapat kesalahan dan Anda ingin kembali melihat versi sebelumnya maka Anda dapat melakukan hal tersebut dengan menggunakan command berikut
+
+```
+git checkout <hash snapshot yang ingin anda tuju>
+```
