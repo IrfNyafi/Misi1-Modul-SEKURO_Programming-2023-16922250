@@ -7,8 +7,6 @@ Berikut adalah link sumber materi 1 ->
 - [Istilah-istilah yang Sering Digunakan Dalam Git](#istilah-istilah-yang-sering-digunakan-dalam-git)
 - [Apa Itu GitHub?](#apa-itu-github)
 
-<br>
-
 ## Apa Itu Git?
 Git adalah sebuah *version control system* i.e. software untuk mengelola perubahan file di dalam folder. Git didesain sebagai sebuah tools untuk meningkatkan produktivitas dalam pembuatan software karena memungkinkan para developer untuk berkolaborasi pada codebase yang sama secara bersamaan. Git merupakan salah satu software yang penting untuk dipelajari karena dapat menyelesaikan permasalahan-permasalahan berikut
 
@@ -20,8 +18,6 @@ Git merekam dan menyimpan perubahan pada source code sehingga memungkinkan sourc
 
 - **Data Loss Protection**<br>
 Git menyimpan setiap perubahan dari versi-versi source code sehingga jika terjadi kegagalan dalam backup data maka source code tidak akan hilang.
-
-<br>
 
 ## Istilah-istilah yang Sering Digunakan Dalam Git
 <details>
@@ -73,8 +69,6 @@ Git menyimpan setiap perubahan dari versi-versi source code sehingga jika terjad
 <summary> Pull</summary>
 &emsp; Proses mengambil commit ke repo.
 </details>
-
-<br>
 
 ## Apa Itu GitHub?
 
