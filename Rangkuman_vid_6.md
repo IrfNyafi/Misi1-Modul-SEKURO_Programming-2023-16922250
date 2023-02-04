@@ -1,5 +1,8 @@
 # Git Branch & Merge
 
+Berikut adalah link sumber materi 6 ->
+[Link Video 6](https://www.youtube.com/watch?v=EGl7KxVOyNs&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf&index=6)
+
 ## Table of Contents
   - [Implementasi Branch](#implementasi-branch)
     - [Command dalam Implementasi Branch](#command-dalam-implementasi-branch)

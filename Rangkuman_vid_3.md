@@ -1,5 +1,8 @@
 # GitHub: Branch
 
+Berikut adalah link sumber materi 3 ->
+[Link Video 3](https://www.youtube.com/watch?v=k1QXd-8VbPY&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf&index=3)
+
 ## Table of Contents
   - [Apa Itu Branch](#apa-itu-branch)
   - [Tata Cara Branching](#tata-cara-branching)

@@ -1,5 +1,8 @@
 # Bekerja dengan Git
 
+Berikut adalah link sumber materi 5 ->
+[Link Video 5](https://www.youtube.com/watch?v=e-6OkXRqWaE&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf&index=5)
+
 ## Table of Contents
   - [Instalasi Git](#instalasi-git)
   - [Tiga Area pada Repo Git](#tiga-area-pada-repo-git)
